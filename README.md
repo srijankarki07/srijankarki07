@@ -1,5 +1,5 @@
 # 💫 About Me:
-A kid inspired by Spider-Man, now crafting the web as a developer.<br>Currently doing intern as a frontend developer.
+A kid inspired by Spider-Man, now crafting the web as a developer.<br>Currently working as a junior web developer.
 
 
 ## 🌐 Socials:

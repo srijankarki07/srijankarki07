@@ -1,6 +1,12 @@
 # 💫 About Me:
 A kid inspired by Spider-Man, now crafting the web as a developer.<br>Currently working as a junior web developer.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="srijankarki07's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srijankarki07/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/srijankarki4) 
